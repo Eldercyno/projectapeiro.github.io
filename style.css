@@ -1,0 +1,10 @@
+body{
+    background-image: url("main_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home-mini-info{
+	font-size: 1.0rem !important;
+    line-height: 2;
+    margin: 0 4rem 2rem;
+}
