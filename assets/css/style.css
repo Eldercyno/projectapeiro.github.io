@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://projectapeirodotcom.files.wordpress.com/2017/01/haiyan_eumetsat.jpg?w=1200&h=850&crop=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home-mini-info{
+	font-size: 0.8rem !important;
+    line-height: 2;
+    margin: 0 4rem 2rem;
+}
+
